@@ -10069,7 +10069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationPivot: {fileID: 1333464690}
-  translationSpeed: 0
+  translationSpeed: 1000
 --- !u!114 &2047353947
 MonoBehaviour:
   m_ObjectHideFlags: 0
